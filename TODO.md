@@ -1,0 +1,1 @@
+- [ ] pull colors from .env file to quickly change everything
